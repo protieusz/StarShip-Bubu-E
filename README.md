@@ -3,6 +3,19 @@ Upgraded StarShip Bubu-E. Solo trackball with PER56 encoder, 34mm trackball & 5 
 
 Integrated PMW3360 sensor to the main pcb that has integrated RP2040 and RGBs.  Updated and refined case with bolts and screws so no need to hot glue or super glue the case. Looks better. No need to handwire to integrate the OmegaSupreme to the main pcb.
 
+Preview Renders:
+
+![Screenshot 2023-12-09 at 9 11 48 PM](https://github.com/protieusz/StarShip-Bubu-E/assets/118025702/abebdea2-5a6b-4e24-88dc-7ca4eb643ddb)
+![Screenshot 2023-12-09 at 9 11 35 PM](https://github.com/protieusz/StarShip-Bubu-E/assets/118025702/ee8e28ad-5678-4223-b51b-190be1347dac)
+![Screenshot 2023-12-09 at 9 11 15 PM](https://github.com/protieusz/StarShip-Bubu-E/assets/118025702/a4589b76-ff07-4d6d-ae55-0df0e1d0e953)
+![Screenshot 2023-12-09 at 9 11 06 PM](https://github.com/protieusz/StarShip-Bubu-E/assets/118025702/1bfb8d78-9037-4223-ba0b-1bc19a3d5108)
+![Screenshot 2023-12-09 at 9 10 50 PM](https://github.com/protieusz/StarShip-Bubu-E/assets/118025702/c81afa65-4d82-448a-b981-b9a52c0bd30b)
+![Screenshot 2023-12-09 at 9 10 18 PM](https://github.com/protieusz/StarShip-Bubu-E/assets/118025702/4401ad13-4a48-4691-a4b7-94384f26562c)
+
+
+
+
+
 
 
 # License
